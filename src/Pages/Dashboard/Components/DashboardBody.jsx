@@ -1,8 +1,8 @@
 import './DashboardBody.css'
 import DropDown from '../../../assets/dropdown.svg'
-
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import SearchLogo from '../../../assets/DashboardBody/search.svg'
-
+import InfoOutlinedIcon from '@mui/icons-material/InfoOutlined';
 
 
 
@@ -91,16 +91,18 @@ export function DashboardBody(props) {
                             <thead className='table-top' >
                                 <tr className='table-head-row' >
                                     <th style={{ fontWeight: 500 }} >
-                                        Order ID
+                                        Order ID 
                                     </th>
                                     <th style={{ fontWeight: 500 }}>
-                                        Order Date
+                                        Order Date <ArrowDropDownIcon />
                                     </th>
                                     <th style={{ fontWeight: 500 }}>
                                         Order Amount
                                     </th>
                                     <th style={{ fontWeight: 500 }}>
-                                        Transaction Fees
+                                        Transaction Fees <span style={{marginBottom : "6px"}} >
+                                        <InfoOutlinedIcon fontSize='small' />
+                                        </span>
                                     </th>
                                 </tr>
                             </thead>
