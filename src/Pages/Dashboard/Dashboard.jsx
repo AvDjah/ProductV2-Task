@@ -1,7 +1,7 @@
 import CompanyLogo from '../../assets/CompanyLogo.png'
 import DropDown from '../../assets/dropdown.svg'
 import Wallet from '../../assets/wallet.png'
-import { NavBarItem, NavBarItems } from '../Dashboard/Components/NavBarItem'
+import {NavBarItems } from '../Dashboard/Components/NavBarItem'
 import { Body } from './Components/Body'
 
 
