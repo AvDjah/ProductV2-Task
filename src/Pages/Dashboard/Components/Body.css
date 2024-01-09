@@ -1,0 +1,151 @@
+.body-header {
+    height: 64px;
+    width: 1216px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px #D9D9D9 solid    ;
+}
+
+
+.body-header .part-1 {
+    height: 22px;
+    width: 360px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 32px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
+
+.body-header .part-1 .box-1 {
+    height: 22px;
+    width: 70px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.body-header .part-1 .box-2 {
+    width: 94px;
+    height: 16px;
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 16px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.question-logo {
+    height: 12.6px;
+    width: 12.6px;
+    margin-top: 1.7px;
+    margin-bottom: 1.7px;
+    margin-left: 0.7px;
+}
+
+.question-logo-div {
+    height: 14px;
+    width: 14px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+
+.question-logo-text {
+    height: 16px;
+    width: 74px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 6px;
+}
+
+
+.body-header .part-2 {
+    height: 40px;
+    width: 400px;
+    border-radius: 6px;
+    background-color: #F2F2F2;
+    margin-left: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    display: flex;
+    flex-direction: row;
+}
+
+.body-header .part-2 .search-logo {
+    width: 15.37px;
+    height: 15.07px;
+}
+
+.search-logo-div {
+    width: 16px;
+    height: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 16px;
+}
+
+.search-box {
+    font-weight: 400;
+    color: #808080;
+    font-size: 15px;
+    width: 213px;
+    height: 22px;
+    margin-left: 8px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+
+.body-header .part-3 {
+    height: 40px;
+    width: 360px;
+    margin-left: 16px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+
+.body-header .part-3 .box-1 {
+    display: flex;
+    height: 40px;
+    width: 92px;
+    margin-left: 268px;
+}
+
+.body-header .part-3 .box-1 .logo-box-1{
+    background-color: #E6E6E6;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+
+
+.body-header .part-3 .box-1 .logo-1 {
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+}
+
+.body-header .part-3 .box-1 .logo-box-2{
+    background-color: #E6E6E6;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 12px;
+}
+
+
+
+.body-header .part-3 .box-1 .logo-2 {
+    height: 12.73px;
+    width: 20px;
+    margin: 14px 10px 13.27px 10px;
+}
+
+
+
+
+
+
+
+
